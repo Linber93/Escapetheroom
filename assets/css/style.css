@@ -29,6 +29,10 @@ body {
     border-radius: 1rem;
 }
 
+.labyrinth {
+    padding: 50px;
+}
+
 
 #start-game {
     font-size: 1.25rem;
@@ -41,7 +45,8 @@ body {
 }
 
 #start-game:hover {
-    
+    color: #636059;
+    background-color: #C0C9CC;
 }
 
 #leaderboard {
@@ -55,6 +60,7 @@ body {
 }
 
 #leaderboard:hover {
-    
+    color: #636059;
+    background-color: #C0C9CC;
 }
 
